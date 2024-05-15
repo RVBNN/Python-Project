@@ -2,7 +2,7 @@
 """
 Created on Wed Oct 25 09:18:52 2023
 
-@author: Meva
+@author: Meva x Ruben Nunez
 """
 
 import numpy as np
